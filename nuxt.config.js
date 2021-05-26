@@ -25,7 +25,7 @@ export default {
 
   router: {
     middleware: ['auth'],
-    base: 'trello-nuxt',
+    base: '/trello-nuxt',
   },
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
