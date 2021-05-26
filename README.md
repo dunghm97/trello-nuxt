@@ -1,4 +1,6 @@
-# vue-nuxtjs
+# Trello-nuxt
+- This website is based on the Trello Website
+- It's built on Nuxtjs platform + Vuetify UI   
 
 ## Build Setup
 
