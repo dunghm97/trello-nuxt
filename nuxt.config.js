@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - vue-nuxtjs',
+    titleTemplate: '%s - trello-nuxt',
     title: 'trello-nuxt',
     htmlAttrs: {
       lang: 'en',
